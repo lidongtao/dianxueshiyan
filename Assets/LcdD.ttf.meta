@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1c4d6c4bc2e04e4e8677396c3378aed
+timeCreated: 1542942547
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LcdD
+  fontNames:
+  - LcdD
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
